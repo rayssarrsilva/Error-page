@@ -1,14 +1,16 @@
 .inknut-antiqua-medium {
   font-family: "Inknut Antiqua", serif;
   font-weight: normal;
-  font-size: 8vh;
+  font-size: 4vh;
   font-style: normal;
   color: #5F96AB;
 
-  position: relative;
+  position: absolute;
   text-align: center;
-  top: 78%;
-  left: 3.8%;
+  top: 90vh;
+  left: 55%;
+
+  z-index: 30;
 }
 
 * {
@@ -25,4 +27,9 @@ body {
   background-position: center;
 }
 
-
+img {
+  width: 110%;
+  position: absolute;
+  right: 100px;
+  bottom: 9px;
+}
