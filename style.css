@@ -12,7 +12,7 @@
   overflow: hidden;
 }
 
-.images {
+body {
   background-image: url(images/404.png);
   height: 100vh;
   background-size: cover;
