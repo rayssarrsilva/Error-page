@@ -33,3 +33,10 @@ img {
   right: 100px;
   bottom: 9px;
 }
+
+img[alt="nuvens"] {
+  filter: brightness(2) saturate(0.1);
+  width: 100%;
+  height: auto;
+  opacity: 0.8;
+}
