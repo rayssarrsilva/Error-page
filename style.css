@@ -1,7 +1,21 @@
 .inknut-antiqua-medium {
   font-family: "Inknut Antiqua", serif;
-  font-weight: medium;
+  font-weight: normal;
   font-size: 30px;
   font-style: normal;
   color: #5F96AB;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.images {
+  background-image: url(images/404.png);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
