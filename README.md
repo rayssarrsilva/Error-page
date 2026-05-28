@@ -2,7 +2,11 @@
 A creative and responsive error page inspired by a design I created in Figma.
 
 ## Demo
+Old version
 <img width="1907" height="916" alt="figmabearblue" src="https://github.com/user-attachments/assets/c9f22251-1422-44f3-be17-cb258cb9d61a" />
+
+Latest version
+<img width="1905" height="918" alt="404update" src="https://github.com/user-attachments/assets/7668c231-cef1-4ace-a7dc-f185cb2fd7c6" />
 
 ## Features
 - Styled 404 error page with custom illustration
